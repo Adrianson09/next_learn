@@ -9,11 +9,11 @@ const users = [
   },
 ];
 
-const customers =  [
+const customers =  [   
   {
     id: '3958dc9e-712f-4377-85e9-fec4b6a6442a',
-    name: 'Delba de Oliveira',
-    email: 'delba@oliveira.com',
+    name: 'Delba de Oliveira',   
+    email: 'delba@oliveira.com',    
     image_url: '/customers/delba-de-oliveira.png',
   },
   {
